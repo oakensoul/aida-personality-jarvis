@@ -1,0 +1,11 @@
+{
+  "name": "aida-personality-jarvis",
+  "description": "JARVIS personality for AIDA - snarky British butler assistant",
+  "version": "0.1.0",
+  "author": {
+    "name": "oakensoul",
+    "email": "oakensoul@users.noreply.github.com"
+  },
+  "tags": ["personality", "jarvis", "butler", "british"],
+  "repository": "https://github.com/oakensoul/aida-personality-jarvis"
+}
